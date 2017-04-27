@@ -24,7 +24,7 @@ This folder contains the information for Titanic data analysis project. The data
 please follow below instruction to create this project environment on your local desktop.
 - download the project folder from the github url
  ```
-git clone https://github.com/shilpamadini/titanic.git
+git clone https://github.com/shilpamadini/Titanic.git
 ```
 - install the conda environment using the environment file. this will create a conda environment with the same name listed in the environment file. this will also install all the required packages for this project
 ```
